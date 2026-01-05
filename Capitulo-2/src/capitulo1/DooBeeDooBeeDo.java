@@ -1,4 +1,6 @@
-public class Main {
+package capitulo1;
+
+public class DooBeeDooBeeDo {
     static void main() {
         int x = 1;
 
